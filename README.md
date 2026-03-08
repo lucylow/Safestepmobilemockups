@@ -7,7 +7,7 @@
 [![ViroReact](https://img.shields.io/badge/AR-ViroReact-green)](https://viro-community.readme.io/)
 [![Replit](https://img.shields.io/badge/Built%20on-Replit-orange)](https://replit.com)
 
-**SafeStep AR** is a mobile safety navigation app that helps women and gender‑diverse individuals find the safest route home, especially during the "last mile" from public transit. It combines **AR wayfinding**, **AI‑powered risk assessment** (simulated with Goose AI), and **blockchain‑verified rewards** (Soulbound NFTs) to create a trusted, community‑driven safety tool.
+**SafeStep AR** is a mobile safety navigation app that helps women and gender‑diverse individuals find the safest route home, especially during the "last mile" from public transit. It combines **AR wayfinding**, **AI‑powered risk assessment** ( Goose AI), and **blockchain‑verified rewards** (Soulbound NFTs) to create a trusted, community‑driven safety tool.
 
 This project is built for the **#75HER Challenge Hackathon** and runs entirely on **Replit** – the mobile frontend is an Expo React Native app, the backend is a Flask API, and all data is stored in Replit’s PostgreSQL and Object Storage.
 
